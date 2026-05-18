@@ -44,7 +44,7 @@ Activity 5 focuses on developing a News Dashboard using Laravel that integrates 
 
 MediLink PH is an AI-powered smart healthcare and appointment platform designed to improve medical accessibility in Philippine communities, particularly in rural areas like Southern Leyte. It allows patients to book consultations online , consult an AI chatbot assistant for symptom-based recommendations , and securely access digital health records via a mobile app.  
 
-## Activity 1(VEDIO GRIUPINGS0
+## Activity 1(VEDIO GRIUPINGS)
 Activity 1 focuses The Internet of Things (IoT) is a network of everyday physical objects—like smart TVs, fitness trackers, and household appliances—that are embedded with sensors and software. This technology allows them to connect to the internet, share data, and communicate with each other without needing human intervention.
 
 
