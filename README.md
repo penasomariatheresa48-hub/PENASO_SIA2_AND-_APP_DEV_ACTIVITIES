@@ -1,3 +1,4 @@
+
 # PENASO_ACTIVITY_1-2-3-4-5_SIA
 # STUDENT ACTIVITIES REPOSITORY
 
@@ -62,3 +63,7 @@ Activity 5 focuses on developing a News Dashboard using Laravel that integrates 
 # Notes
 
 All files are organized according to their respective subjects and activities.
+=======
+# PENASO_APP-DEV-SIA2_ACTIVITIES
+Compiled activities for Application Development and SIA 2
+
