@@ -8,7 +8,7 @@
 
 ## Student Information
 
-**Name:** Maria Theresa c. Penaso
+**Name:Maria Theresa c. Penaso
 **Course & Section:** BSIT-3B
 **Subject:**  SIA 2
 
