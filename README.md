@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 90684dc09e54c5ebcebbc046eafffd7557967221
 
@@ -83,3 +84,6 @@ Compiled activities for Application Development and SIA 2
 # PENASO_SIA-2-APP_DEV_ACTIVITIES
 
 >>>>>>> 90684dc09e54c5ebcebbc046eafffd7557967221
+=======
+# PENASO_SIA2_AND-_APP_DEV_ACTIVITIES
+>>>>>>> 67b1090cfc81151c187fcadedf1f51e4c4736ee5
